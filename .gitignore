@@ -16,5 +16,6 @@
 npm-debug.log*
 testem.log
 
+/server/settings.js
 # dotenv files for security
 .env*
